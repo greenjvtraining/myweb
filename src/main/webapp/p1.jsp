@@ -7,9 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Index</h1>
-<hr>
-<a href="test">Test Servlet 호출</a>
-<a href="p1">p1 servlet</a>
+<h1>P1 page</h1>
 </body>
 </html>
